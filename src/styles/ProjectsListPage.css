@@ -1,0 +1,27 @@
+.projects h2 {
+    margin-bottom: 25px;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 35px;
+    text-transform: uppercase;
+    margin-left: 200px;
+    color: rgb(11, 11, 240);
+}
+
+.projects ul {
+    list-style: square;
+    padding-left: 40px;
+}
+
+.projects li {
+    margin-bottom: 20px;
+}
+
+.projects a {
+    text-decoration: none;
+    color: rgb(68, 67, 67);
+}
+
+.projects a:hover {
+    text-decoration: underline;
+    color: black;
+}

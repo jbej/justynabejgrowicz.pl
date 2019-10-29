@@ -1,0 +1,13 @@
+.color {
+    margin-top: 100px;
+    padding: 5px;
+    background-color: rgb(74, 74, 238);
+}
+
+footer span {
+    color: red;
+}
+
+footer p {
+    font-size: 10px;
+}
